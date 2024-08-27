@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on JavaScrpit
+- 🔭 I’m currently working on JavaScript, TypeScrip and Angular
 - 🌱 I’m currently learning new Technology
 - 👯 I’m looking to collaborate on open Source
 - 🤔 I’m looking for help with Frontend
