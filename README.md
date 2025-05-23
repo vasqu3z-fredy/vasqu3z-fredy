@@ -14,29 +14,34 @@ Soy Fredy Alexander, un apasionado por el desarrollo de software con un enfoque 
 
 ---
 
-## 📌 Tecnologías y Herramientas
+<h3 align="center">🛠️ Tecnologías Frontend y Backend</h3>
 
-<h3>🌐 Frontend</h3>
-
-<p>
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript" />
-  <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3" />
-  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap" />
-  <img src="https://img.shields.io/badge/-Bulma-00D1B2?style=for-the-badge&logo=bulma" />
+<p align="center">
+  <strong>Frontend</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>Backend</strong>
 </p>
 
-<h3>🖥️ Backend</h3>
-
-<p>
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp" />
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php" />
-  <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql" />
-</p>
+<table align="center">
+  <tr>
+    <td align="Left" valign="top" style="padding: 10px;">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br>
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><br>
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white" />
+    </td>
+    <td align="right" valign="top" style="padding: 10px;">
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /><br>
+    <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /> <br>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=swagger&logoColor=white" /><br>
+    </td>
+  </tr>
+</table>
 
 
 ---
@@ -54,16 +59,14 @@ Aplicación web que permite grabaciones con temporizador global (20 min) y tempo
 
 ## 🎓 Formación Académica
 
-- 👨‍💻 **Ingeniero en Sistemas Informáticos**
+- 👨‍💻 **Ingeniero de Sistemas Informáticos**
 - 🧰 **Técnico en Hardware**
 
 ### 🌐 Idiomas
 
-- 🇪🇸 **Español**: Nativo
-- 🇺🇸 **Inglés**: Intermedio / Avanzado (lectura técnica y conversación profesional)
+-  **Español**: Nativo
+-  **Inglés US**: Intermedio / Avanzado (lectura técnica y conversación profesional)
 
 ## 📫 Conecta conmigo
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/fredy-alexander-vásquez-a83a77204) 
-
----
