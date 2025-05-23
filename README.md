@@ -67,6 +67,6 @@ Aplicación web que permite grabaciones con temporizador global (20 min) y tempo
 -  **Español**: Nativo
 -  **Inglés US**: Intermedio / Avanzado (lectura técnica y conversación profesional)
 
-## 📫 Conecta conmigo
+## 📫 
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/fredy-alexander-vásquez-a83a77204) 
